@@ -1,0 +1,545 @@
+{
+    "properties": {
+        "1": {
+            "name": "3 BHK Flat in Estella Maple Square",
+            "price": 55000,
+            "area": "Sarjapur Road, Bangalore",
+            "mainImage": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_125954097.png?alt=media&token=93bcc155-cc9b-4bde-8bcb-e2f9708b9265",
+            "images": {
+                "Living Room": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_123602232.png?alt=media&token=2adde980-aed0-454c-be09-99cabc01d147",
+                "Bed Room": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_124543595.png?alt=media&token=eb309acf-7931-4706-a362-998b043c1a41",
+                "Bathroom": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_124600657.png?alt=media&token=9fdd130c-5e23-4d96-b457-748885e553cb"
+            },
+            "location": {
+                "latitude": 12.9129,
+                "longitude": 77.6784
+            },
+            "description": "Posh society, All amenities, Spacious, Eco-friendly, Natural ventilation",
+            "facilities": [
+                "Power Back Up",
+                "Lift",
+                "Club House",
+                "Swimming Pool"
+            ],
+            "owner": {
+                "profileImage": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_192532095.png?alt=media&token=4279e6cf-cb76-4d4c-8c4c-44b79c3dee73",
+                "name": "Rishi Raj",
+                "city": "Bangalore",
+                "contactNumber": 9324088967
+            },
+            "houseType": "Family house",
+            "bedroomCount": 3,
+            "washroomCount": 2,
+            "propertyType" : "Villa"
+        },
+        "2": {
+            "name": "Studio Apartment in Leela Residences",
+            "price": 100000,
+            "area": "Thanisandra Main Road, Bangalore",
+            "mainImage": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_125821960.png?alt=media&token=80353ab7-0f50-4b65-98f6-c2ae23ad1e74",
+            "images": {
+                "Living Room": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_125757347.png?alt=media&token=b179d937-0450-4f56-949a-f67b03b83261",
+                "Bed Room": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_125821960.png?alt=media&token=80353ab7-0f50-4b65-98f6-c2ae23ad1e74",
+                "Bathroom": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_125847727.png?alt=media&token=4d310f42-79ff-48c3-a52f-193987c337c1"
+            },
+            "location": {
+                "latitude": 13.0738,
+                "longitude": 77.5958
+            },
+            "description": "Studio apartment is available for rent at Leela Residences.",
+            "facilities": [
+                "Power Back Up",
+                "Lift",
+                "Rain Water Harvesting",
+                "Club House",
+                "Swimming Pool",
+                "Gymnasium",
+                "Park",
+                "Reserved Parking",
+                "Security",
+                "Private Terrace/Garden",
+                "Vaastu Compliant",
+                "Service/Goods Lift",
+                "Air Conditioned",
+                "Visitor Parking",
+                "Intercom Facility",
+                "Maintenance Staff",
+                "Waste Disposal",
+                "Laundry Service",
+                "Internet/Wi-Fi Connectivity",
+                "DTH Television Facility",
+                "RO Water System",
+                "Banquet Hall",
+                "Bar/Lounge",
+                "Cafeteria/Food Court",
+                "Conference Room",
+                "Piped Gas",
+                "Jogging and Strolling Track",
+                "Outdoor Tennis Courts",
+                "Mini Cinema Theatre",
+                "Pool with temperature control",
+                "Health club with Steam/Jaccuzi",
+                "Large Clubhouse",
+                "3 Tier Security System",
+                "Fingerprint Access",
+                "Multipurpose Hall",
+                "Indoor Games Room",
+                "Indoor Squash & Badminton Courts",
+                "Library And Business Centre",
+                "Badminton court"
+            ],
+            "owner": {
+                "profileImage": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_192638589.png?alt=media&token=f1517978-2bda-44f8-818f-a97f96ed9777",
+                "name": "Tushit Baalaje",
+                "city": "Bangalore",
+                "contactNumber": 9876543210
+            },
+            "houseType": "Family house",
+            "bedroomCount": 0,
+            "washroomCount": 1,
+            "propertyType" : "Apartment"
+        },
+        "3": {
+            "name": "4 BHK Flat in Sadashiva Nagar",
+            "price": 200000,
+            "area": "Sadashiva Nagar, Bangalore",
+            "mainImage": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_130441839.png?alt=media&token=afa050c9-76c5-42d9-8219-9331486834ef",
+            "images": {
+                "Living Room": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_130349824.png?alt=media&token=dc64a51d-9aea-4a90-9dd3-7043ee59dc76",
+                "Bed Room": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_130239949.png?alt=media&token=a9ee4b27-a292-42d4-a89c-71d9fe9a2097",
+                "Kitchen": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_130259649.png?alt=media&token=f70286f4-ec6e-4f35-81cd-63c4a03eacbc"
+            },
+            "location": {
+                "latitude": 12.9884,
+                "longitude": 77.5813
+            },
+            "description": "Fully furnished Flat for Rent in Sadashiva Nagar, Bangalore. 4 Bedrooms, 4 Bathrooms, 3800 Sq ft. Fully Furnished with white goods and 2 Reserved Car park in basement with all amenities. Rent ₹2 Lakhs Plus Maintenance and 10 Months Deposit.",
+            "facilities": [
+                "Lift",
+                "Fingerprint Access",
+                "Waste Disposal",
+                "Lounge"
+            ],
+            "owner": {
+                "profileImage": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_192813409.png?alt=media&token=407e1071-1d6c-4223-b22d-37bd63c65104",
+                "name": "Yashika Mahajan",
+                "city": "Bangalore",
+                "contactNumber": 9324088967
+            },
+            "houseType": "Family house",
+            "bedroomCount": 4,
+            "washroomCount": 4,
+            "propertyType" : "Apartment"
+        },
+        "4": {
+            "name": "3 BHK Duplex Apartment in HM Astoria",
+            "price": 150000,
+            "area": "AALCO Layout, Bangalore",
+            "mainImage": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_130759422.png?alt=media&token=91862a24-1097-41b6-a553-85d081277536",
+            "images": {
+                "Living Room": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_130614777.png?alt=media&token=acab8a52-f54b-44a5-97d7-6b2241061099",
+                "Bed Room": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_130640441.png?alt=media&token=0620d97e-d141-424f-8b04-4bf6c35ed405",
+                "Kitchen": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_130724831.png?alt=media&token=66580a2b-bef5-4bf3-b8d0-c3ea24677055"
+            },
+            "location": {
+                "latitude": 12.9929,
+                "longitude": 77.5992
+            },
+            "description": "Fully furnished 3 BHK Duplex Apartment available immediately to move in the prime locations of Benson town, Just 4Kms away from Vidhana Soudha and 30Mins from Bangalore airport.",
+            "facilities": [
+                "Lifts",
+                "Waste Disposal",
+                "Lounge"
+            ],
+            "owner": {
+                "profileImage": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_192914955.png?alt=media&token=7f75d7aa-9347-4499-8a4d-8a0817f80730",
+                "name": "Gayathri",
+                "city": "Bangalore",
+                "contactNumber": 9324088967
+            },
+            "houseType": "Sublet",
+            "bedroomCount": 3,
+            "washroomCount": 4,
+            "propertyType" : "House"
+        },
+        "5": {
+            "name": "3 BHK Apartment in L&T Raintree Boulevard",
+            "price": 75000,
+            "area": "Hebbal, Bangalore",
+            "mainImage": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_131124015.png?alt=media&token=74252427-5316-42c7-9a70-c773c26e27de",
+            "images": {
+                "Living Room": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_131053570.png?alt=media&token=cab8fb3b-13a6-4eaf-a7b6-72f8ee3c8492",
+                "Bed Room": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_130945052.png?alt=media&token=a3dee130-7a1c-4638-9a15-dd0a52ad4133",
+                "Kitchen": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_131020266.png?alt=media&token=567b7245-9655-407a-af71-da1e372bae1a"
+            },
+            "location": {
+                "latitude": 13.0451,
+                "longitude": 77.5891
+            },
+            "description": "The residential enclave LT Raintree Boulevard Phase 3 features the very best in LT Realtys luxury living segment. The project offers spacious Apartments with luxurious features. Beautiful landscapes all around LT Raintree Boulevard make it more special Elite.",
+            "facilities": [
+                "Power Back Up",
+                "Lift",
+                "Rain Water Harvesting",
+                "Club House",
+                "Swimming Pool",
+                "Gymnasium",
+                "Park",
+                "Reserved Parking",
+                "Security",
+                "Private Terrace/Garden",
+                "Vaastu Compliant",
+                "Service/Goods Lift",
+                "Air Conditioned",
+                "Intercom Facility",
+                "Maintenance Staff",
+                "Waste Disposal",
+                "Laundry Service",
+                "Internet/Wi-Fi Connectivity",
+                "DTH Television Facility",
+                "RO Water System",
+                "Banquet Hall",
+                "Bar/Lounge",
+                "Cafeteria/Food Court",
+                "Conference Room",
+                "Piped Gas",
+                "Jogging and Strolling Track",
+                "Outdoor Tennis Courts",
+                "Golf Course",
+                "Health club with Steam / Jaccuzi",
+                "Private Garden",
+                "AEROBICS ROOM",
+                "Indoor Games Room",
+                "Indoor Squash & Badminton Courts"
+            ],
+            "owner": {
+                "profileImage": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_193244451.png?alt=media&token=07d4d2c9-4d7c-4e29-b586-e67a05e0e3b4",
+                "name": "Rohan Udhwani",
+                "city": "Bangalore",
+                "contactNumber": 9324088967
+            },
+            "houseType": "Family house",
+            "bedroomCount": 3,
+            "washroomCount": 3,
+            "propertyType" : "House"
+        },
+        "6": {
+            "name": "3 BHK Apartment in Vaishnavi Terraces",
+            "price": 120000,
+            "area": "JP Nagar, Bangalore",
+            "mainImage": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_131338489.png?alt=media&token=b600314f-cc70-4e6f-a6b3-4ccaac8dd253",
+            "images": {
+                "Living Room": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_131321368.png?alt=media&token=0e359acb-ba11-40d5-a1cf-be5dbf3388d3",
+                "Bed Room": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_131355315.png?alt=media&token=de9cc684-6022-4abb-bdfa-d821281525df",
+                "Bathroom": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_131428210.png?alt=media&token=407493a0-a3dd-4403-bf62-a55af6e28b2d"
+            },
+            "location": {
+                "latitude": 12.9095,
+                "longitude": 77.5970
+            },
+            "description": "Ready to move 3 BHK fully furnished flat, 3 bathrooms, multi-store apartment. The flat is given to a family.",
+            "facilities": [
+                "Club House",
+                "Swimming Pool",
+                "Gymnasium",
+                "Banquet Hall",
+                "Jogging and Strolling Track",
+                "Outdoor Tennis Courts",
+                "Event Space & Amphitheatre",
+                "Indoor Games Room",
+                "Indoor Squash & Badminton Courts",
+                "Kids Play Area"
+            ],
+            "owner": {
+                "profileImage": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_193313637.png?alt=media&token=9a8996fe-29eb-4ce1-ad1e-89f3d24e738c",
+                "name": "Ayush Singh",
+                "city": "Bangalore",
+                "contactNumber": 9324088967
+            },
+            "houseType": "Bachelor flat",
+            "bedroomCount": 3,
+            "washroomCount": 3,
+            "propertyType" : "Apartment"
+        },
+        "7": {
+            "name": "3 BHK Apartment in Runwal Elegante",
+            "price": 280000,
+            "area": "Shastri Nagar Andheri West, Mumbai",
+            "mainImage": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_131607961.png?alt=media&token=576460a2-981f-4614-8a0a-c1dbd63f9f4b",
+            "images": {
+                "Living Room": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_131640054.png?alt=media&token=93acdaf2-90de-410d-bcb8-4a8289ec1b92",
+                "Bed Room": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_131701645.png?alt=media&token=92fb71da-7a25-4270-a8d5-26302277a021",
+                "Bathroom": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_131730008.png?alt=media&token=36f4eb98-19a4-42be-ba25-f2be6be5d309"
+            },
+            "location": {
+                "latitude": 19.1429,
+                "longitude": 72.8327
+            },
+            "description": "Located at the best location of Andheri West with all amenities.",
+            "facilities": [
+                "Power Back Up",
+                "Lift",
+                "Rain Water Harvesting",
+                "Club House",
+                "Swimming Pool",
+                "Gymnasium",
+                "Park",
+                "Reserved Parking",
+                "Security",
+                "Water Storage",
+                "Private Terrace/Garden",
+                "Vaastu Compliant",
+                "Service/Goods Lift",
+                "Air Conditioned",
+                "Visitor Parking",
+                "Intercom Facility",
+                "Maintenance Staff",
+                "Waste Disposal",
+                "Laundry Service",
+                "Internet/Wi-Fi Connectivity",
+                "DTH Television Facility",
+                "RO Water System",
+                "Banquet Hall",
+                "Bar/Lounge",
+                "Cafeteria/Food Court",
+                "Conference Room",
+                "Piped Gas",
+                "Jogging and Strolling Track",
+                "Outdoor Tennis Courts",
+                "Downtown",
+                "Skyline View",
+                "Wrap Around Balcony",
+                "Island Kitchen Layout",
+                "Full Glass Wall",
+                "House help accommodation",
+                "Concierge Services",
+                "Private pool",
+                "Golf Course",
+                "Skydeck",
+                "Earthquake resistant",
+                "Theme-based Architectures",
+                "Health club with Steam/Jaccuzi",
+                "Fingerprint Access",
+                "Private Garage",
+                "Fireplace",
+                "Wine Cellar",
+                "Sky Villa",
+                "Water Front",
+                "Smart Home",
+                "Event Space & Amphitheatre",
+                "Indoor Squash & Badminton Courts",
+                "Kids Play Area",
+                "Kids Play Pool With Water Slides",
+                "Meditation Area",
+                "Badminton court"
+            ],
+            "owner": {
+                "profileImage": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_193408217.png?alt=media&token=840c2bc8-745e-4784-99e2-3c25fa154364",
+                "name": "Kumar Rishav",
+                "city": "Mumbai",
+                "contactNumber": 9324088967
+            },
+            "houseType": "Family house",
+            "bedroomCount": 3,
+            "washroomCount": 3,
+            "propertyType" : "Apartment"
+        },
+        "8": {
+            "name": "3 BHK Apartment in Lake Homes",
+            "price": 110000,
+            "area": "MHADA Colony 19, Mumbai",
+            "mainImage": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_142628939.png?alt=media&token=949d08e9-3989-4597-b716-cf22b473e617",
+            "images": {
+                "Living Room": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_142420621.png?alt=media&token=7e7b8c4c-5bd1-44cd-898a-0d32ca23dfc3",
+                "Bed Room": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_142448097.png?alt=media&token=16d6f3da-3b72-449e-853a-7ef2e77872cc",
+                "Kitchen": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_142517680.png?alt=media&token=ec128b2a-b579-42d2-b2c9-fc3ddb117e7c"
+            },
+            "location": {
+                "latitude": 19.1196,
+                "longitude": 72.9073
+            },
+            "description": "Available 3 BHK Apartment For Rent in Lake Homes Powai. 3 Bedrooms, 3 Bathrooms, Car parking 1 covered. Amenities: Clubhouse with 7 fully functional sports courts with professional standards facilities. Football practice turf, Basketball, Cricket practice turf, Badminton, Squash, and Tennis Court, Gymnasium, Swimming Pool, Cafe, Kids Pool, Kids Play Area, Business Lounge, Guest Room.",
+            "facilities": [
+                "Power Back Up",
+                "Lift",
+                "Rain Water Harvesting",
+                "Club House",
+                "Swimming Pool",
+                "Gymnasium",
+                "Park",
+                "Reserved Parking",
+                "Security",
+                "Private Terrace/Garden",
+                "Vaastu Compliant",
+                "Service/Goods Lift",
+                "Visitor Parking",
+                "Intercom Facility",
+                "Maintenance Staff",
+                "Waste Disposal",
+                "Laundry Service",
+                "Internet/Wi-Fi Connectivity",
+                "Piped Gas",
+                "Jogging and Strolling Track",
+                "Bank & ATM",
+                "Flower Gardens",
+                "Kids Play Area",
+                "Fire Fighting Equipment"
+            ],
+            "owner": {
+                "profileImage": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_193427297.png?alt=media&token=a8d45cf7-4092-46e9-bd72-c66b434176cb",
+                "name": "Ameet Motwani",
+                "city": "Mumbai",
+                "contactNumber": 9324088967
+            },
+            "houseType": "Sublet",
+            "bedroomCount": 3,
+            "washroomCount": 3,
+            "propertyType" : "Villa"
+        },
+        "9": {
+            "name": "1 BHK Apartment in Mahavir Classik",
+            "price": 43000,
+            "area": "Powai, Mumbai",
+            "mainImage": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_142830106.png?alt=media&token=5605620f-fa44-4cd8-b533-358f5a5ed01d",
+            "images": {
+                "Living Room": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_142912468.png?alt=media&token=b9790f6c-2f83-4a7c-9ba1-9f03ad131db1",
+                "Bed Room": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_142850843.png?alt=media&token=62c48a51-d7e2-4299-951d-d207eedfdba6",
+                "Kids Room": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_142930762.png?alt=media&token=fc07fb68-05d6-41c3-95a0-b210e00be9f5"
+            },
+            "location": {
+                "latitude": 19.1197,
+                "longitude": 72.9070
+            },
+            "description": "Central Mumbai Suburbs' most popular society DSS Mahavir Classik in Powai offers a 1 BHK apartment. This flat consists of 1 bathroom built-in 520 sq.Ft. super built-up area. The flat is built on 615 sq.Ft. area. This property has a store room as well. Ease of access to 1 open parking within society. This flat is situated on the 1st floor in a tower with 12 floors. This is a 10 years old society. This is a furnished flat. Already installed 9 lights, 2 fans, 2 ACs, 2 TVs, 1 bed, 1 wardrobe, 1 geyser, 1 sofa, 1 washing machine, 1 stove, 1 fridge, 1 water purifier, 1 microwave, 1 modular kitchen, 1 chimney, 1 dining table.",
+            "facilities": [
+                "Power Back Up",
+                "Lift",
+                "Rain Water Harvesting",
+                "Reserved Parking",
+                "Security",
+                "Water Storage",
+                "Visitor Parking",
+                "Intercom Facility",
+                "Maintenance Staff",
+                "Waste Disposal",
+                "Internet/Wi-Fi Connectivity",
+                "Piped Gas"
+            ],
+            "owner": {
+                "profileImage": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_193450768.png?alt=media&token=4355e06d-1101-4239-9db0-55d65956cd3e",
+                "name": "Harshita Talwar",
+                "city": "Mumbai",
+                "contactNumber": 9324088967
+            },
+            "houseType": "Sublet",
+            "bedroomCount": 1,
+            "washroomCount": 1,
+            "propertyType" : "Villa"
+        },
+        "10": {
+            "name": "2 BHK Apartment on Medical College Road",
+            "price": 10000,
+            "area": "Medical College Road, Nagpur",
+            "mainImage": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_143216602.png?alt=media&token=c585d269-e79d-4577-8b23-474b95da9d9c",
+            "images": {
+                "Living Room": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_143155847.png?alt=media&token=d72baf48-bb37-4ffd-813f-b54a62c7c104",
+                "Bed Room": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_143102865.png?alt=media&token=8c4bf6d7-88c2-40b9-9403-85f3e5cea707",
+                "Kitchen": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_143131847.png?alt=media&token=dee9a74a-e9fb-425a-a891-7d8caf897e7d"
+            },
+            "location": {
+                "latitude": 21.1422,
+                "longitude": 79.0561
+            },
+            "description": "2 BHK apartment for rent on Medical College Road, Nagpur. 2 Bedrooms, 1 Bathroom, 1 Balcony, 1 Store Room. Unfurnished. Carpet Area: 900 sqft. Located on the Ground floor in a building with 2 floors. New construction. Contact the owner to make an offer.",
+            "facilities": [
+                "Power Back Up",
+                "Lift",
+                "Reserved Parking",
+                "Security",
+                "Water Storage",
+                "Visitor Parking",
+                "Maintenance Staff"
+            ],
+            "owner": {
+                "profileImage": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_193724143.png?alt=media&token=043e1335-94a4-463a-aa81-91befb7e6283",
+                "name": "Saumya Sharma",
+                "city": "Nagpur",
+                "contactNumber": 9324088967
+            },
+            "houseType": "Bachelor flat",
+            "bedroomCount": 2,
+            "washroomCount": 1,
+            "propertyType" : "House"
+        },
+        "11": {
+            "name": "2 BHK Apartment in Suyog Nagar",
+            "price": 20000,
+            "area": "Suyog Nagar, Nagpur",
+            "mainImage": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_143430905.png?alt=media&token=b42abb13-6f82-47a0-a844-9b2b45a3e2d7",
+            "images": {
+                "Living Room": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_143354275.png?alt=media&token=05ceaf85-ff61-4a54-9352-be67de1cb5e6",
+                "Bed Room": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_143413079.png?alt=media&token=8af5168e-c471-4600-b7ef-d44e26fd3da7",
+                "Kitchen": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_143443676.png?alt=media&token=8aac3d6d-9433-4a2a-bc7b-a37f77f801b3"
+            },
+            "location": {
+                "latitude": 21.1427,
+                "longitude": 79.0800
+            },
+            "description": "2 BHK apartment for rent in Suyog Nagar, Nagpur. 2 Bedrooms, 2 Bathrooms, 2 Balconies, 1 Store Room. Semi-Furnished. Carpet Area: 1800 sqft. 3 Covered Parking. Located on the Ground floor. Age of Construction: 5 to 10 years. East facing property overlooking Garden/Park, Main Road. Water available 24 hours. No/Rare Powercut.",
+            "facilities": [
+                "Power Back Up",
+                "Lift",
+                "Reserved Parking",
+                "Security",
+                "Water Storage",
+                "Visitor Parking",
+                "Maintenance Staff"
+            ],
+            "owner": {
+                "profileImage": "https://lh3.googleusercontent.com/a/ACg8ocKlmfi5NPiD1oMp68TCIiB8el5byw-Lntgnyp0DSs2NZ8SC=s317-c-no",
+                "name": "Rohan Udhwani",
+                "city": "Nagpur",
+                "contactNumber": 9324088967
+            },
+            "houseType": "Family house",
+            "bedroomCount": 2,
+            "washroomCount": 2,
+            "propertyType" : "House"
+        },
+        "12": {
+            "name": "3 BHK Villa in Khapri",
+            "price": 150000,
+            "area": "House Number 21, 23 Vasundhara, Phase-2, Khapri Nagpur-441108, Khapri, Nagpur, Maharashtra",
+            "mainImage": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_143702528.png?alt=media&token=e7c77a50-368f-451a-adf6-2b2d1f27f1ed",
+            "images": {
+                "Living Room": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_143553930.png?alt=media&token=53698609-49d7-4c93-8611-128b2843bd56",
+                "Bed Room": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_143625449.png?alt=media&token=86b3d22e-ef7e-4ca5-a643-f1e2bab48dac",
+                "Kitchen": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-01-10_143639595.png?alt=media&token=ffc96534-5f7a-4253-95c8-3fca7b555e17"
+            },
+            "location": {
+                "latitude": 21.1559,
+                "longitude": 79.0901
+            },
+            "description": "Stunning 3 BHK Villa for rent in Khapri, Nagpur. Super Built-Up Area: 3000 sqft. Furnished with exquisite furnishings. West-facing villa with vitrified flooring. 3 bedrooms, 3 bathrooms, 1 Store Room. 1 Covered Parking. Age of Construction: 10 to 15 years. Conveniently located near Narayan Vidyalayam, D-mart, and the All India Institute of Medical Sciences. Ajni Railway Station and Khapri Metro Station provide excellent connectivity.",
+            "facilities": [
+                "Power Back Up",
+                "Lift",
+                "Reserved Parking",
+                "Security",
+                "Water Storage",
+                "Visitor Parking",
+                "Maintenance Staff"
+            ],
+            "owner": {
+                "profileImage": "https://lh3.googleusercontent.com/a/ACg8ocKlmfi5NPiD1oMp68TCIiB8el5byw-Lntgnyp0DSs2NZ8SC=s317-c-no",
+                "name": "Rohan Udhwani",
+                "city": "Nagpur",
+                "contactNumber": 9324088967
+            },
+            "houseType": "Bachelor flat",
+            "bedroomCount": 3,
+            "washroomCount": 3,
+            "propertyType" : "Villa"
+        }
+    }
+}

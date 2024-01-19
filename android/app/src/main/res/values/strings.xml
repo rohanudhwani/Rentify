@@ -1,0 +1,10 @@
+<resources>
+<<<<<<< HEAD
+  <string name="app_name">Rentify</string>
+  <string name="expo_splash_screen_resize_mode" translatable="false">contain</string>
+  <string name="expo_splash_screen_status_bar_translucent" translatable="false">false</string>
+</resources>
+=======
+    <string name="app_name">Rentify</string>
+</resources>
+>>>>>>> 32890e41b748c5f9f429b83538ce3847989a63fa
