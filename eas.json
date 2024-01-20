@@ -2,13 +2,9 @@
     "build": {
       "preview": {
         "android": {
-<<<<<<< HEAD
           "buildType": "apk",
           "image": "latest",
           "applicationArchivePath": "android/app/build/outputs/**/*.apk"
-=======
-          "buildType": "apk"
->>>>>>> 32890e41b748c5f9f429b83538ce3847989a63fa
         }
       },
       "preview2": {

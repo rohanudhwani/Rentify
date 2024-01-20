@@ -1,9 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
-<<<<<<< HEAD
 import { ActivityIndicator, Alert, StyleSheet, Text, View } from 'react-native';
-=======
-import { StyleSheet, Text, View } from 'react-native';
->>>>>>> 32890e41b748c5f9f429b83538ce3847989a63fa
 import { DetailScreen, FilterScreen, HomeScreen, LocationScreen, LoginScreen, OnBoardingScreen, SignUpScreen, UserScreen, ViewScreen, WishlistScreen } from './screens';
 import { NavigationContainer, useNavigation } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
@@ -17,19 +13,9 @@ import store from './redux/store';
 
 const userRef = ref(db, '/properties');
 
-<<<<<<< HEAD
-const Stack = createNativeStackNavigator()
-
-=======
-
-
-
 const Stack = createNativeStackNavigator()
 
 
-
-
->>>>>>> 32890e41b748c5f9f429b83538ce3847989a63fa
 const MyComponent = ({ setActiveScreen }) => {
   const navigation = useNavigation()
 
@@ -39,12 +25,8 @@ const MyComponent = ({ setActiveScreen }) => {
       setActiveScreen(currentScreen)
     });
 
-<<<<<<< HEAD
-    return () => { unsubscribe.remove(); }
-=======
-    return unsubscribe
->>>>>>> 32890e41b748c5f9f429b83538ce3847989a63fa
-  }, [navigation])
+    return () => { unsubscribe() }
+  }, [navigation, setActiveScreen])
 }
 
 
@@ -60,7 +42,6 @@ export default function App() {
   const [propertiesData, setPropertiesData] = useState(null);
 
   // Attach an asynchronous callback to read the data
-<<<<<<< HEAD
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
@@ -96,19 +77,17 @@ export default function App() {
 
   const screensWithoutBottomTab = ["SignUp", "Login", "OnBoarding", "Filter", "Detail", "Location", "View"];
 
-=======
-  onValue(userRef, (snapshot) => {
-    const data = snapshot.val();
-    setPropertiesData(data);
-  }, {
-    onlyOnce: true, // This ensures the callback is triggered only once
-  });
+  // onValue(userRef, (snapshot) => {
+  //   const data = snapshot.val();
+  //   setPropertiesData(data);
+  // }, {
+  //   onlyOnce: true, // This ensures the callback is triggered only once
+  // });
 
   if (!fontsLoaded && !fontError) {
     return null;
   }
 
->>>>>>> 32890e41b748c5f9f429b83538ce3847989a63fa
   return (
     <Provider store={store}>
       <NavigationContainer>
@@ -129,11 +108,9 @@ export default function App() {
         </Stack.Navigator>
 
 
-<<<<<<< HEAD
-        {screensWithoutBottomTab.includes(activeScreen) || (
-=======
-        {activeScreen !== "SignUp" && activeScreen !== "Login" && activeScreen !== "OnBoarding" && activeScreen !== "Filter" && activeScreen !== "Detail" && activeScreen !== "Location" && activeScreen !== "View" && (
->>>>>>> 32890e41b748c5f9f429b83538ce3847989a63fa
+        {screensWithoutBottomTab.includes(activeScreen) ? (
+          null
+        ) : (
           <BottomTab activeScreen={activeScreen} />
         )}
       </NavigationContainer>

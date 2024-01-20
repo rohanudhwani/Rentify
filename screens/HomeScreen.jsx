@@ -45,11 +45,6 @@ const HomeScreen = ({ propertiesData }) => {
               `https://nominatim.openstreetmap.org/reverse?format=json&lat=${location.coords.latitude}&lon=${location.coords.longitude}&addressdetails=1`
             );
             const data = await response.json();
-<<<<<<< HEAD
-
-=======
-            
->>>>>>> 32890e41b748c5f9f429b83538ce3847989a63fa
             if (data && data.address) {
               // Extract the area name from the response
               setAreaName(data.address.county || data.address.state_district);
@@ -72,13 +67,10 @@ const HomeScreen = ({ propertiesData }) => {
   const geolib = require('geolib');
 
   const findDistance = (latitude, longitude) => {
-<<<<<<< HEAD
     if (!location || !location.coords) {
       // Handle the case where location or its coords property is undefined
       return 0; // or some default value
     }
-=======
->>>>>>> 32890e41b748c5f9f429b83538ce3847989a63fa
     const toKilometers = (meters) => meters / 1000;
 
     const distance = geolib.getDistance({ latitude: location?.coords.latitude, longitude: location?.coords.longitude, }, { latitude, longitude });
@@ -89,13 +81,9 @@ const HomeScreen = ({ propertiesData }) => {
 
 
 
-<<<<<<< HEAD
   const [properties, setProperties] = useState(propertiesData && typeof propertiesData === 'object'
     ? Object.values(propertiesData).filter((property) => property.propertyType === 'House')
     : [])
-=======
-  const [properties, setProperties] = useState(Object.values(propertiesData).filter((property) => property.propertyType === 'House'))
->>>>>>> 32890e41b748c5f9f429b83538ce3847989a63fa
 
   const [filtersApplied, setFiltersApplied] = useState(false)
 

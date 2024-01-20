@@ -7,11 +7,7 @@
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-<<<<<<< HEAD
       "image": "./assets/icon.png",
-=======
-      "image": "./assets/splash.png",
->>>>>>> 32890e41b748c5f9f429b83538ce3847989a63fa
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -26,33 +22,11 @@
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#ffffff"
       },
-<<<<<<< HEAD
       "package": "com.rohanudhwani.Rentify"
     },
     "web": {
       "favicon": "./assets/icon.png"
     },
-=======
-      "package": "com.rohanudhwani.Rentify",
-      "permissions": [
-        "android.permission.ACCESS_COARSE_LOCATION",
-        "android.permission.ACCESS_FINE_LOCATION",
-        "android.permission.FOREGROUND_SERVICE"
-      ]
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
-    "plugins": [
-      "@react-native-firebase/app",
-      [
-        "expo-location",
-        {
-          "locationAlwaysAndWhenInUsePermission": "Allow Rentify to use your location."
-        }
-      ]
-    ],
->>>>>>> 32890e41b748c5f9f429b83538ce3847989a63fa
     "extra": {
       "eas": {
         "projectId": "a19fdc21-b2f5-4d29-ad65-23d27d758c78"
