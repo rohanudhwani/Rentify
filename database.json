@@ -540,6 +540,41 @@
             "bedroomCount": 3,
             "washroomCount": 3,
             "propertyType" : "Villa"
+        },
+        "13": {
+            "name": "IIITN Hostel",
+            "price": 110000,
+            "area": "Wardha Road, Khapri Nagpur-441108, Khapri, Nagpur, Maharashtra",
+            "mainImage": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-02-02_191744603.png?alt=media&token=a7d202ec-111b-4463-8324-e6d353b4b2cc",
+            "images": {
+                "Corridoor": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-02-02_191839585.png?alt=media&token=a0df1a37-990e-4e39-bc67-584f9664cf9c",
+                "Mess": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-02-02_191947404.png?alt=media&token=7bdbf518-1fe9-48c0-b952-c6879fd53968",
+                "Bathroom": "https://firebasestorage.googleapis.com/v0/b/rentify-76d2b.appspot.com/o/properties%2Fimage_2024-02-02_191931473.png?alt=media&token=28b00bda-22c0-4c3b-b101-1e487d0a55a4"
+            },
+            "location": {
+                "latitude": 20.949331113870024,
+                "longitude": 79.03002301695427
+            },
+            "description": "Discover the epitome of comfort and convenience with our charming rental property. This thoughtfully designed space combines modern amenities with a cozy atmosphere, offering a perfect retreat for your lifestyle. From stylish interiors to a prime location, make this property your next home sweet home. Welcome to a place where comfort meets convenience!",
+            "facilities": [
+                "Power Back Up",
+                "Lift",
+                "Reserved Parking",
+                "Security",
+                "Water Storage",
+                "Visitor Parking",
+                "Maintenance Staff"
+            ],
+            "owner": {
+                "profileImage": "https://lh3.googleusercontent.com/a/ACg8ocKlmfi5NPiD1oMp68TCIiB8el5byw-Lntgnyp0DSs2NZ8SC=s317-c-no",
+                "name": "Rohan Udhwani",
+                "city": "Nagpur",
+                "contactNumber": 9324088967
+            },
+            "houseType": "Bachelor flat",
+            "bedroomCount": 1,
+            "washroomCount": 1,
+            "propertyType" : "House"
         }
     }
 }
